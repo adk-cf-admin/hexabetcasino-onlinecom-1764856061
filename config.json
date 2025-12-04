@@ -1,0 +1,201 @@
+{
+    "en-CA": {
+        "styles": {
+            "bg": "#0B0B0B",
+            "lang-select-color": "#222829",
+            "bg-light": "#0B0B0B",
+            "welcome-bonus-bg": "#0B0B0B",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#12261c",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#42975E",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#42975E",
+            "yellow": "#FFFFFF",
+            "yellow-button": "#42975E",
+            "button-text": "#1f1e1e",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#0B0B0B",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#bdbdc7",
+            "pay-back": "#deeadf",
+            "providers-back": "#0B0B0B",
+            "faq-label": "#0B0B0B",
+            "bg-footer": "#0B0B0B",
+            "copyright": "#e7e7d5",
+            "starColor": "#42975E",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Hexabet",
+            "title": "Hexabet Casino | Play Online, Bonuses, Slots & Sports Betting",
+            "description": "Hexabet is a modern online casino offering thousands of games, live casino, sports betting, and huge jackpots. Fast withdrawals, crypto support, generous bonuses, and 24\/7 customer service. Play safely and win big!\n",
+            "canonical": "hexabetcasino-online.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/903",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "hexabetcasino-online.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/904",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/905"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/908",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Hexabet Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "Hexabet \u2014 online casino with bonuses and fast payouts",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/909",
+            "imageSizeModifier": 6,
+            "imageYModifier": -4,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/910",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 1,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Wide selection of slots and live games",
+                "High odds for sports betting",
+                "Crypto support and fast withdrawals",
+                "Welcome bonuses up to \u20ac3000 plus free spins",
+                "User-friendly interface and mobile version",
+                "Multi-level VIP program with cashback",
+                "Reliable license and data protection"
+            ],
+            "advantagesAfterText": "Hexabet combines casino and sportsbook features, offering players a diverse gaming experience. Convenient payment options and generous bonuses make it an attractive choice for online gaming.\n",
+            "knowMore": "Know more",
+            "appTitle": "Hexabet App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/911",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Hexabet App",
+            "mobileGooglePlayImageTitle": "Hexabet App",
+            "mobileIosImageTitle": "Hexabet App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "About Hexabet",
+                "description1": "Hexabet delivers big bonuses and high winning limits, making gameplay highly rewarding. The loyalty program with cashback boosts consistent earnings.\n",
+                "items": [
+                    "Bonus up to \u20ac3000 for new players",
+                    "Slot jackpots up to \u20ac500,000",
+                    "Cashback up to 20% weekly"
+                ],
+                "description2": "Hexabet is a modern online gaming platform. It combines casino games, sports betting, and lotteries. Users can enjoy thousands of slots and live games. The site offers a user-friendly interface and mobile version. Various payment methods, including cryptocurrencies, are supported. \n",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/912",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "Players benefit from bonuses and a loyalty program. The platform ensures secure data protection and safe transactions. Sports betting on popular events is available. Hexabet focuses on comfort and variety for players. It\u2019s a great destination for online entertainment."
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Hexabet \u2014 the world of online gaming and betting",
+                "description": "<p>\nHexabet is a modern platform that combines online casino and sportsbook features. Players can enjoy thousands of slots, table games, and live casino sessions with real dealers, creating an authentic gaming atmosphere. The platform focuses on convenience and security, offering an intuitive interface and mobile-friendly design.\n\n<\/p>\n<br>\n<p>\nEntertainment diversity is a priority: from classic slot machines to betting on popular sports and esports. Hexabet provides flexible conditions for players, including multiple payment options and cryptocurrency support, ensuring fast and hassle-free transactions.\n\n<\/p>\n<br>\n<p>\nNew users benefit from attractive bonuses and promotions, while regular players can take advantage of a loyalty program with cashback and exclusive offers. This creates additional opportunities to maximize winnings and makes gameplay more rewarding.\n\n<\/p>\n<br>\n<p>\nSecurity and fairness are core principles of Hexabet. The platform uses advanced data protection technologies and guarantees transparency in all operations, allowing players to focus on the game without concerns about reliability.\n\n<\/p>\n<br>\n<p>\nHexabet is where excitement meets innovation. Whether you prefer slots, live games, or sports betting, this platform is designed for those who value quality, comfort, and real chances to win.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPayment Methods and Currencies at Hexabet\n\n<\/h3>\n\n<p>\nHexabet offers a wide range of payment options to make deposits and withdrawals as convenient as possible. The platform supports traditional bank cards such as Visa and MasterCard, as well as popular e-wallets including Skrill, Neteller, and MiFinity. For those who prefer modern solutions, cryptocurrency payments are available, ensuring fast transactions and a high level of privacy.\n\n<\/p>\n<br>\n<p>\nPlayers can use various currencies, including euros, dollars, and other international standards. Additionally, cryptocurrency support allows transactions in Bitcoin, Ethereum, Litecoin, Tether, and other digital assets. This makes Hexabet accessible to users worldwide and helps avoid restrictions associated with traditional banking systems.\n\n<\/p>\n<br>\n<p>\nAll transactions are secured with advanced encryption technologies, guaranteeing data safety and fund protection. This allows players to focus on gaming without worrying about payment reliability. Hexabet aims to provide maximum flexibility and comfort, offering solutions for every type of user.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRules for Visiting and Playing at Hexabet\n\n<\/h3>\n\n<p>\nHexabet is an online casino that follows strict rules to ensure fair and secure gaming. Every user must comply with the established conditions to keep the experience comfortable and transparent. The main requirement is that registration is allowed only for adults, as gambling is prohibited for individuals under 18. The platform also requires accurate information during account creation to prevent fraud and violations.\n\n<\/p>\n<br>\n<p>\nPlayers are prohibited from using multiple accounts or sharing access with third parties. All actions must align with responsible gaming principles, including time and budget control. Hexabet reserves the right to verify user identity and request documents when necessary. This helps maintain high security standards and prevent illegal activities.\n\n<\/p>\n<br>\n<p>\nAdditionally, the use of third-party software to gain advantages in games is strictly forbidden. Any attempts at manipulation or cheating will result in account suspension. The platform also enforces fair play rules in live casino sessions and sports betting. All transactions are processed through secure channels, and players must use only their own payment details.\n\n<\/p>\n<br>\n<p>\nHexabet aims to create a safe and fair gaming environment where every user can enjoy entertainment without risk of rule violations. Following these conditions guarantees comfort and reliability for all participants.\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMain Conditions and Restrictions<\/h4>\n\n <ul>\n            <li>\u2022 \nAge limit: access only for players over 18.\n\n<\/li>\n            <li>\u2022 \nAccurate data: registration with real information.\n\n<\/li>\n            <li>\u2022 \nSingle account: multiple accounts are prohibited.\n\n<\/li>\n            <li>\u2022 \nNo access sharing: login details must remain private.\n\n<\/li>\n\t    <li>\u2022 \nResponsible gaming: control time and spending.\n\n<\/li>\n\t    <li>\u2022 \nNo third-party software: bots and cheats are forbidden.\n\n<\/li>\n\t    <li>\u2022 \nFair play: compliance in casino and betting.\n\n<\/li>\n\t    <li>\u2022 \nSecure payments: use only personal details.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLicense and Data Security at Hexabet\n\n<\/h3>\n\n<p>\nHexabet operates under an international license issued by the Cura\u00e7ao Gaming Control Board. This license confirms the legality of the platform and guarantees compliance with fair gaming standards. All processes are monitored to prevent manipulation and ensure transparency for users.\n\n<\/p>\n<br>\n<p>\nTo protect player data, Hexabet uses advanced encryption technologies, including SSL protocols, which secure the transmission of information between the user and the server. This means that personal details, payment information, and transaction history are safeguarded against unauthorized access. Additionally, the platform employs a multi-layered security system to prevent hacking and fraud attempts.\n\n<\/p>\n<br>\n<p>\nHexabet\u2019s privacy policy strictly regulates the use of personal information. All data is collected solely to ensure proper service functionality and is never shared with third parties without user consent. The platform also supports responsible gaming tools, allowing players to set limits and avoid addiction.\n\n<\/p>\n<br>\n<p>\nIn this way, Hexabet creates a secure environment for online entertainment, where every player can trust in data protection and fair gameplay.\n\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nHexabet Customer Support: Fast and Reliable\n\n<\/h3>\n\n<p>\nHexabet places great emphasis on customer service quality, offering several convenient communication channels. Users can contact support via live chat, email, or phone. The live chat is available 24\/7, ensuring quick assistance for any issues. Email responses typically arrive within a few hours, while the phone line provides immediate help for urgent matters.\n\n<\/p>\n<br>\n<p>\nThe service quality is rated highly: agents are polite, knowledgeable, and ready to assist with registration, payments, or gameplay concerns. Hexabet aims for maximum accessibility by offering multilingual support, including English, Spanish, German, and more. This makes the platform user-friendly for players worldwide.\n\n<\/p>\n<br>\n\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Communication Channels\n<\/h4>\n            <ul>\n            <li>\u2022 \nLive chat: available 24\/7 for instant help\n\n<\/li>\n            <li>\u2022 \nEmail: responses within a few hours\n\n<\/li>\n            <li>\u2022 \nPhone: immediate assistance for urgent issues\n\n\n<\/li>\n\n  \n        <\/ul><br>\n\n\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Service Highlights\n<\/h4>\n        <ul>\n            <li>\u2022 \nFast response times\n\n<\/li>\n            <li>\u2022 \nHighly skilled support agents\n\n<\/li>\n       <li>\u2022 \nMultilingual availability\n\n<\/li>\n\n        <\/ul><br>\n\n    <\/div>\n<\/div>\n<br>\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entertainment and Gaming at  Hexabet",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nHexabet Loyalty Program: Rewards and VIP Benefits\n\n<\/h3>\n\n<p>\nThe Hexabet loyalty program is designed to reward active players and provide them with extra benefits. It is available to all registered users who regularly place bets or play casino games. Participation grants access to exclusive bonuses, higher withdrawal limits, and personalized offers. The more you play, the higher your level and the greater your privileges.\n\n<\/p>\n<br>\n<p>\nRegistration in the program happens automatically after creating an account and making the first deposit. Players start at the basic level and gradually increase their status by earning points through betting and activity. Each new level unlocks additional perks: increased cashback, personal account managers, faster withdrawals, and exclusive promotions.\n\n<\/p>\n<br>\n<p>\nThe program includes several tiers, starting from standard and going up to VIP status. At the highest levels, players enjoy the best conditions, including weekly bonuses, higher withdrawal limits, and special gifts. This makes gaming not only exciting but also highly rewarding for loyal customers.\n\n<\/p>\n<br>\n\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Registration Requirements\n<\/h4>\n            <ul>\n            <li>\u2022 \nCreate an account on Hexabet\n\n<\/li>\n            <li>\u2022 \nMake the first deposit\n\n<\/li>\n            <li>\u2022 \nStart playing and earn points\n\n\n<\/li>\n\n  \n        <\/ul><br>\n   <h4 style = \"font-weight: bold; font-size: 24px;\">Program Levels and How to Reach Them\n<\/h4>\n            <ul>\n            <li>\u2022 \nBasic: available immediately after registration\n\n<\/li>\n            <li>\u2022 \n\u0422\u0435\u043a\u0441\u0442\n<\/li>\n            <li>\u2022 \nSilver: achieved after a set number of bets\n\n<\/li>\n           <li>\u2022 \nGold: active play and regular deposits\n\n<\/li>\n       \n            <li>\u2022 \nPlatinum: high turnover and loyalty\n\n<\/li>\n            <li>\u2022 \nVIP: invitation-only for top players\n\n\n<\/li>\n  \n        <\/ul><br>\n\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Available Bonuses\n<\/h4>\n        <ul>\n            <li>\u2022 \nCashback up to 20% weekly\n\n<\/li>\n            <li>\u2022 \nPersonal deposit bonuses\n\n<\/li>\n       <li>\u2022 \nFree spins for popular slots\n<\/li>\n            <li>\u2022 \nFaster withdrawals and higher limits\n\n<\/li>\n              <li>\u2022 \nExclusive promotions and VIP gifts\n\n\n<\/li>\n        <\/ul><br>\n      \n\n    <\/div>\n<\/div>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nHexabet Bonuses and Special Offers: Maximum Rewards for Players\n\n<\/h3>\n\n<p>\nHexabet provides a wide range of bonuses and special offers that make gaming more exciting and profitable. Beyond the loyalty program, the platform regularly hosts promotions, seasonal events, and tournaments with big prizes. New players enjoy welcome bonuses, while regular customers benefit from weekly and monthly deals.\n\n<\/p>\n<br>\n<p>\nSpecial attention is given to slots and live games, featuring jackpots and exclusive tournaments. Sports betting also comes with promotions, including boosted odds on major events. During holidays, themed giveaways and special bonuses increase winning opportunities.\n\n<\/p>\n<br>\n<p>\nHexabet focuses on variety: from free spins and deposit bonuses to cashback and VIP offers. This allows players to choose the best deals and maximize their gaming experience.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMain Bonuses and Offers\n<\/h4>\n\n <ul>\n            <li>\u2022 \nWelcome Bonus: up to 250% on first deposit + 300 free spins\n\n<\/li>\n            <li>\u2022 \nWeekly Cashback: up to 20% on losses\n<\/li>\n            <li>\u2022 \nSports Bonus: up to \u20ac200 for betting\n\n<\/li>\n            <li>\u2022 \nSlot Tournaments: prize pools up to \u20ac50,000\n\n<\/li>\n\t    <li>\u2022 \nLive Casino Promotions: special bonuses for dealer games\n\n<\/li>\n\t    <li>\u2022 \nSeasonal Events: holiday giveaways with prizes up to \u20ac10,000\n\n<\/li>\n\t    <li>\u2022 \nFree Spins: up to 100 spins on popular slots\n\n<\/li>\n\t    <li>\u2022 \nJackpots: winnings up to \u20ac500,000 in slots\n\n<\/li>\n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular Games at Hexabet: Top Entertainment for Players\n\n<\/h3>\n\n<p>\nHexabet offers a huge selection of games suitable for fans of classic slots and modern entertainment. The platform partners with leading providers such as Pragmatic Play, NetEnt, and Evolution Gaming, ensuring high quality and variety. Players can enjoy vibrant graphics, engaging themes, and bonus features that make gameplay exciting.\n\n<\/p>\n<br>\n<p>\nSpecial attention is given to slots with progressive jackpots, where winnings can reach impressive amounts. Live casino with real dealers creates an authentic gaming atmosphere, while table games like roulette and blackjack deliver classic gambling thrills. For those who love fast-paced action, instant games and quick rounds are available.\n\n<\/p>\n<br>\n<p>\nHexabet also hosts exclusive slot tournaments and special promotions for popular games. This gives players the chance to have fun and win big prizes. With such diversity, every player can find a game that suits their taste.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPopular Hexabet Games\n<\/h4>\n\n <ul>\n            <li>\u2022 \nSweet Bonanza (Pragmatic Play): colorful slot with multipliers and free spins.\n\n<\/li>\n            <li>\u2022 \nGates of Olympus (Pragmatic Play): mythological theme, multipliers up to x500.\n\n<\/li>\n            <li>\u2022 \nStarburst (NetEnt): classic slot with expanding symbols and bright visuals.\n\n<\/li>\n            <li>\u2022 \nMega Moolah (Microgaming): progressive jackpot offering millions in prizes.\n\n<\/li>\n\t    <li>\u2022 \nLightning Roulette (Evolution Gaming): roulette with multipliers and live dealers.\n\n<\/li>\n\t    <li>\u2022 \nBlackjack Live: traditional card game with real croupiers.\n\n<\/li>\n\t    <li>\u2022 \nCrazy Time (Evolution): game-show style with bonus rounds and big wins.\n\n\n<\/li>\n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum and Maximum Bets at Hexabet: Flexibility for Every Player\n\n<\/h3>\n\n<p> \nHexabet offers flexible betting conditions so every player can choose a comfortable level of play. The platform caters to both beginners and experienced users by providing a wide range of minimum and maximum bets. This applies to slots, table games, live casino, and sports betting. With such options, Hexabet is accessible to players with different budgets while still offering the chance to win big.\n\n<\/p><br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#42975E; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac0.10 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac100 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette(Live)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac0.50<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac5,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack (Live)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac1<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac10,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Sports Betting<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac0.20 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> \u20ac50,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Casino Shows<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac0.10<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac2,500<\/td>\n                <\/tr>\n \n            <\/tbody>\n        <\/table><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEvents and Entertainment at Hexabet: Endless Fun and Excitement\n\n<\/h3>\n\n<p>\nHexabet is more than just an online casino\u2014it\u2019s a full entertainment platform where players can enjoy not only slots and table games but also unique events. The platform regularly hosts slot tournaments with large prize pools, attracting both beginners and experienced players. These tournaments allow participants to compete and win extra bonuses and real money.\n\n<\/p>\n<br>\n<p>\nLive game shows from top providers like Evolution Gaming take center stage. Games such as Crazy Time and Monopoly Live create the atmosphere of a real TV show with hosts, bonus rounds, and big wins. It\u2019s not just gaming\u2014it\u2019s interactive entertainment that brings excitement every round.\n\n<\/p>\n<br>\n<p>\nAdditionally, Hexabet organizes seasonal promotions and holiday events. During major holidays like New Year or Halloween, themed tournaments, giveaways, and special bonuses are launched. This gives players the chance to enjoy their favorite games while earning extra prizes.\n\n<\/p>\n<br>\n<p>\nFor sports fans, special promotions on top events are available, including boosted odds and exclusive offers. Hexabet ensures that every user finds entertainment to suit their taste\u2014from classic games to modern interactive shows.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAll Events and Entertainment\n<\/h4>\n\n <ul>\n            <li>\u2022 \nSlot Tournaments: regular competitions with prize pools up to \u20ac50,000.\n\n<\/li>\n            <li>\u2022 \nLive Shows (Crazy Time, Monopoly Live): games with hosts, bonus rounds, and big win opportunities.\n\n<\/li>\n            <li>\u2022 \nSeasonal Promotions: holiday giveaways and themed tournaments with prizes up to \u20ac10,000.\n\n<\/li>\n            <li>\u2022 \nSpecial Sports Offers: boosted odds on major matches and exclusive bonuses.\n\n<\/li>\n\t    <li>\u2022 \nJackpots: progressive wins up to \u20ac500,000 in popular slots.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWithdrawal Methods and Payout Speed at Hexabet\n\n<\/h3>\n\n<p>\nHexabet offers convenient and secure withdrawal methods to ensure players receive their winnings as quickly as possible. The platform supports both traditional and modern options, including bank cards, e-wallets, and cryptocurrencies. All transactions are processed through secure channels, guaranteeing data safety and eliminating fraud risks.\n\n<\/p>\n<br>\n<p>\nProcessing times depend on the chosen method. E-wallets such as Skrill or Neteller provide withdrawals within 24\u201348 hours. Bank cards take slightly longer\u2014around 3 to 5 business days. Cryptocurrency transactions are the fastest, processed almost instantly, making them a popular choice among players.\n\n<\/p>\n<br>\n<p>\nHexabet sets specific withdrawal limits based on player status and payment method. The minimum withdrawal amount is usually \u20ac20, while maximum limits can reach \u20ac50,000 for VIP members. All withdrawal requests undergo verification to confirm user identity and prevent illegal activities.\n\n<\/p>\n<br>\n<p>\nThe platform also offers accelerated payouts for loyalty program participants and VIP clients. This ensures winnings are received without delays, making the gaming experience even more enjoyable. With transparent conditions and a reliable security system, Hexabet maintains a high level of trust among users.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal Methods\n<\/h4>\n\n <ul>\n            <li>\u2022 \nBank Cards (Visa, MasterCard): processing time 3\u20135 business days.\n\n<\/li>\n            <li>\u2022 \nE-wallets (Skrill, Neteller, MiFinity): 24\u201348 hours.\n\n<\/li>\n            <li>\u2022 \nCryptocurrencies (Bitcoin, Ethereum, Litecoin, Tether): almost instant.\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nProcessing Times\n<\/h4>\n\n <ul>\n            <li>\u2022 \nStandard users: up to 72 hours.\n\n<\/li>\n            <li>\u2022 \nVIP players: accelerated payouts within a few hours.\n\n\n<\/li>\n \n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal Limits\n<\/h4>\n\n <ul>\n            <li>\u2022 \nMinimum amount: \u20ac20.\n\n<\/li>\n            <li>\u2022 \nMaximum amount: up to \u20ac50,000 (for VIP).\n<\/li>\n    \n        <\/ul><br>"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "Do I need to download an app to play?",
+                    "answer": "No, Hexabet works entirely through a browser. A mobile-friendly version is available.\n"
+                },
+                {
+                    "title": " Is there a demo mode for games?",
+                    "answer": "Yes, most slots and table games are available in \u201cDemo\u201d mode without real bets.\n"
+                },
+                {
+                    "title": "What documents are required for verification?",
+                    "answer": "Usually, a passport or driver\u2019s license and proof of address (utility bill) are needed.\n"
+                },
+                {
+                    "title": "Can I cancel a bet?",
+                    "answer": "No, once confirmed, a bet cannot be canceled except in cases of technical error.\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/913",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Hexabet"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-CA",
+            "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+            "isDefault": true
+        }
+    ]
+}
